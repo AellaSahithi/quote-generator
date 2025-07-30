@@ -14,6 +14,19 @@ Click the "Generate Quote" button to display a new quote- with changing backgrou
 (<img width="936" height="443" alt="image" src="https://github.com/user-attachments/assets/f421bed3-7d05-4f19-9c8d-c5a1b362bb1d" />)
 
 ---
+## 🚀 Try it live
+🔗[View Live Project]()
 
+---
+## Tech Stack
+-HTML5
+-CSS3(with animations)
+-JavaScript(DOM manipulation)
+
+---
+## 🔓 Open Source 
+This project is open-source under the MIT license.
+You can explore , use ,or modify the code freely. 😊
+Just don't forget to leave a ❤️ if you like it !!
 
 

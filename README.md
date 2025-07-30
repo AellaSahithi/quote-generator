@@ -15,8 +15,7 @@ Click the "Generate Quote" button to display a new quote- with changing backgrou
 
 ---
 ## 🚀 Try it live
-🔗[View Live Project]()
-
+🔗[View Live Project]( https://aellasahithi.github.io/quote-generator/)
 ---
 ## Tech Stack
 -HTML5
